@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    <external-path name="my_images" path="Android/data/com.example.a0324new/files/Pictures" />-->
+    <!--    <external-files-path name="extfiles" path="."/>-->
+    <external-path path="Android/data/no.nordicsemi.android.nrfmesh/" name="files_root" />
+    <external-path path="." name="external_storage_root" />
+</paths>

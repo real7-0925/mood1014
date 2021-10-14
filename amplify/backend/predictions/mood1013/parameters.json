@@ -1,0 +1,18 @@
+{
+    "resourceName": "mood1013",
+    "identifyPolicyName": "identifyPolicyde7639b7",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "adminAuthProtected": "ALLOW",
+    "adminGuestProtected": "ALLOW",
+    "identifyType": "identifyEntities",
+    "celebrityDetectionEnabled": false,
+    "adminTask": true,
+    "maxEntities": 50,
+    "folderPolicies": "app",
+    "access": "authAndGuest"
+}
